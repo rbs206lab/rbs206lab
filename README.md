@@ -1,16 +1,13 @@
-## Hi there 👋
+# 嗨，我是王小明 👋
 
-<!--
-**rbs206lab/rbs206lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論。
 
-Here are some ideas to get you started:
+## 關於我
+- 系級：＿＿＿＿＿＿
+- 正在學習：Python、GitHub
+- 感興趣的主題：＿＿＿＿＿＿
+- 這學期的目標：＿＿＿＿＿＿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的作品
+之後會把課堂作品放在 GitHub。
+
